@@ -10,6 +10,8 @@ ce code python permet plusieur chose liées a l'upload de cours sur moodle:
 ceci permet d'aficher un cours de facon sécurisé car les option qui permette de bloquer le téléchargement lors du partage de lien sont activé
 
 
+il est nécessaire de créer un projet google lié au google drive et de recuper un token
+
 
  *ID en parlant d'ID j'évoque la chaine de caracter situé a la fin des URL dans google drive, cet ID est propre a chaque dossier et fichier
  

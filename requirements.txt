@@ -1,0 +1,4 @@
+comtypes
+pyfiglet
+ppt2pdf
+pydrive
